@@ -1,9 +1,6 @@
 Hello, wanderer...
 Code, algorithm, and framework.
 
-<!--
-**KreozotGit/KreozotGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Coding is magic.
 I'm a beginner developer in Python and C++.
 Student at LEONOV Moscow Region University of Technology (UNITECH).
@@ -14,4 +11,8 @@ Books: Psycho-pass.
 Films: The X-files, Supernatural, The Big Bang Theory, House M.D.
 Anime!
 Contacts: ana-komarova89@yandex.ru; https://t.me/Kreozot_tm
+
+<!--
+**KreozotGit/KreozotGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
